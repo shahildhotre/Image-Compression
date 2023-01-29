@@ -17,7 +17,7 @@ Implementing Hard and Soft Clustering Algorithms to compress image.
   - Vary Patch Size
   - Improve compression using entropy encoding
  
-For detailed steps check HW8_2022.pdf
+For detailed steps check HW8_2022.pdf and for code check Image_compression.ipynb
 
 ## Input Image
 <img src="input.png" width="300">
